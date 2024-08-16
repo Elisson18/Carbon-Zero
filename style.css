@@ -192,7 +192,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center; 
-  padding: 10px; }
+  padding: 0px; }
 
 
 .footer .logo {
@@ -207,6 +207,7 @@ body {
 }
 
 .footer .map {
+  padding-left: 90px;
   max-width: 300px; 
   height: 250px; 
   overflow: hidden;
@@ -218,6 +219,14 @@ body {
   border: 0;
 }
 
+.slogan{
+  padding-right: 90px;
+  font-family: "Radio Canada Big", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+
+}
 .line-container1 {
-  padding: 50px 0px 70px 0px;
+  padding: 50px 0px 20px 0px;
 }
